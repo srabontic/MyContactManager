@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Contact Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_contact_activity">edit_contact_activity</string>
+    <string name="action_add_contact">action_add_contact</string>
+    <string name="title_activity_my_contacts">Address Book</string>
+    <string name="title_activity_main_activity_add_contacts">Add Contacts</string>
+    <string name="lblName">Saved Contacts </string>
+
+</resources>
